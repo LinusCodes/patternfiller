@@ -4,7 +4,7 @@
     class PatternFiller{
 
         //replace placeholders that fit a regex with data of an json-string
-        public function replacePlaceholder($origin, $data, $pattern){
+        public function replacePlaceholder(string $origin, array $data, string $pattern){
             $placeholders = $this->getMatches($origin, $pattern);
 
             foreach ($placeholders[1] as $placeholder) {
