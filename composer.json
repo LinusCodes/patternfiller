@@ -4,8 +4,7 @@
   "description": "Fill placeholders in a pattern",
   "type": "library",
   "require": {
-    "php": ">=8.0",
-    "linus-codes/patternfiller": "1.0.0"
+    "php": ">=8.0"
   },
   "license": "MIT",
   "authors": [
