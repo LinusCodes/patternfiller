@@ -1,6 +1,5 @@
 {
   "name": "linus-codes/patternfiller",
-  "version": "1.0.0",
   "description": "Fill placeholders in a pattern",
   "type": "library",
   "require": {
