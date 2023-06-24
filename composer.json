@@ -1,7 +1,10 @@
 {
   "name": "linus-codes/patternfiller",
+  "version": "1.0.0",
   "description": "Fill placeholders in a pattern",
   "type": "library",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
   "require": {
     "php": ">=8.0"
   },
@@ -14,7 +17,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "LinusCodes\\PatternFiller\\": ""
+      "LinusCodes\\PatternFiller\\": "src/"
     }
   }
 }
