@@ -2,6 +2,7 @@
   "name": "linus-codes/patternfiller",
   "description": "Fill placeholders in a pattern",
   "type": "library",
+  "version": "1.0.0",
   "require": {
     "php": ">=8.0"
   },
