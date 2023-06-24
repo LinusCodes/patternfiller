@@ -59,10 +59,11 @@ In format you can choose a pattern for each element in the array. The Class does
 ```php
 $patternFiller->replacePlaceholder(string $origin, array $data, string $regex);
 ```
+```
 -$origin expects the pattern-text with placeholders
 -$data expects an array of the needed data to fill the placeholders. Make shure both array keyvalues and placeholders are named correctly
 -$regex expects a regular expression to mark placeholders as such
-
+```
 Placeholders with the same name will get the same value.
 
 
