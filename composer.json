@@ -13,10 +13,9 @@
       "email": "benjamin.koring@icloud.com"
     }
   ],
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "LinusCodes\\": "src/"
+      "LinusCodes\\PatternFiller\\": "src/"
     }
   }
 }
